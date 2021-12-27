@@ -1,0 +1,20 @@
+﻿web_framework,responden,salary,percentage,type
+React.js,25296,58128,40.14,client
+jQuery,21693,45797,34.42,client
+Express,15010,47850,23.82,client
+Angular,14471,48852,22.96,client
+Vue.js,11954,50000,18.97,client
+ASP.NET Core,11404,60744,18.1,server
+Flask,10174,54876,16.14,server
+ASP.NET,9918,56220,15.74,server
+Django,9446,45379,14.99,server
+Spring,9177,51888,14.56,server
+Angular.js,7242,49450,11.49,client
+Laravel,6377,29196,10.12,server
+Ruby on Rails,4438,77556,7.04,server
+Gatsby,2501,60129,3.97,client
+FastAPI,2447,54049,3.88,server
+Symfony,2427,45396,3.85,server
+Svelte,1735,62520,2.75,client
+Drupal,1508,51429,2.39,server
+Other,4561,,7.24,
